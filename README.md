@@ -1,7 +1,7 @@
 Overview
 ========
 
-This is a set of [Chef](https://github.com/opscode/chef) cookbooks to bring up
+This is a set of [Chef](https://github.com/opscode/chef) cookbooks for Bloomberg to bring up
 [Hadoop](http://hadoop.apache.org/) and [Kafka](http://kafka.apache.org)
 clusters. In addition, there are a number of additional services provided with
 these cookbooks - such as DNS, metrics, and monitoring - see below for a partial
